@@ -7,7 +7,7 @@ This data set is provided to the public to use and keep up to date for this purp
 ## Data Format:
 
 |Column | Description|
-|--|--|
+|---|---|
 |ticker | Unique value that gets reused.  To keep the uniqueness .DEL is appended to a ticker to indicate that it was assigned to a stock that is not listed anymore and there exists another stock with the same ticker
 |isin | The international security identifier
 |shortname | A shortname as useed by the JSE
