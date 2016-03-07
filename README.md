@@ -2,7 +2,7 @@
 Reference data for JSE (Johannesburg Stock Exchnage) listed and delisted companies
 
 There is a lack of publicly available reference data on JSE listed and delisted stocks that can be easily consumed by programming languages and applications.
-This data set is provided to the public to use and keep up to date for this purpose.
+This data set is provided in the the public domain to use and keep up to date for this purpose.
 
 ## Data Format:
 
@@ -25,11 +25,7 @@ This data set is provided to the public to use and keep up to date for this purp
 |last_update| **This column can be removed**
 |alsi_member| Is this stock a member of the FTSE/JSE ALSI index
 |top40_member| Is this stock a member of the FTSE/JSE Top40 index
-|irregular_flag| **This column cna be removed**
-
-TODO:  
-
-Add a column for the quandl code on the GOOG database - e.g. GOOG/JSE_[ticker]
+|irregular_flag| **This column can be removed**
 
 ## Usage
 
@@ -37,13 +33,14 @@ The data is provided freely to use as you like.  Either download the file or clo
 
 ## Contribute
 
-If you would like to contribute to the development and maintenance of this data, clone the repo, make changes and send me a pull request.
-Usually chnages will consitute the fixing and updating of values or the addition of columns. Deletion of values and especially columns will be done (and approved) in special cases only.
+If you would like to contribute to the improvment and maintenance of this data, clone the repo, make changes and send a pull request.
+
+See the open issues for specific fix and enhancement requests.
 
 Also if you would like to contribute other reference data for other instruments (Unit trusts, Futures, Warrants, options etc), it would be appreciated.  The data can be for any other country given that the data is not available in a convenient format anywhere else and you have the permission to publish it under the creative commons license.
 
 ##License:
 
-All the data in this repository is licensed under the creative commons CCO 1.0 licence.
+All the data in this repository is licensed under the creative commons [CCO 1.0] licence.
 
 See the licence file.
