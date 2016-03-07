@@ -1,4 +1,4 @@
-# jse_reference_data
+# JSE Reference Data
 Reference data for JSE (Johannesburg Stock Exchnage) listed and delisted companies
 
 There is a lack of publicly available reference data on JSE listed and delisted stocks that can be easily consumed by programming languages and applications.
