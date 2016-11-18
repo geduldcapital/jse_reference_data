@@ -1,5 +1,5 @@
 # JSE Reference Data
-Reference data for JSE (Johannesburg Stock Exchnage) listed and delisted companies
+Reference data for JSE (Johannesburg Stock Exchange) listed and delisted companies
 
 There is a lack of publicly available reference data on JSE listed and delisted stocks that can be easily consumed by programming languages and applications.
 This data set is provided in the the public domain to use and keep up to date for this purpose.
