@@ -37,9 +37,9 @@ If you would like to contribute to the improvment and maintenance of this data, 
 
 See the open issues for specific fix and enhancement requests.
 
-Also if you would like to contribute other reference data for other instruments (Unit trusts, Futures, Warrants, options etc), it would be appreciated.  The data can be for any other country given that the data is not available in a convenient format anywhere else and you have the permission to publish it under the creative commons license.
+Also if you would like to contribute other reference data for other instruments (Unit trusts, Futures, Warrants, options etc), it would be appreciated.
 
-##License:
+## License:
 
 All the data in this repository is licensed under the creative commons [CCO 1.0] licence.
 
